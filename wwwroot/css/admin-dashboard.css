@@ -1,0 +1,292 @@
+/* Elegant Admin Dashboard Styles - Professional Design */
+
+/* Dashboard Container */
+.admin-dashboard {
+    padding: 2rem 0;
+    animation: fadeInUp 0.6s ease-out;
+}
+
+@keyframes fadeInUp {
+    from {
+        opacity: 0;
+        transform: translateY(20px);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+/* Dashboard Header */
+.admin-dashboard h1 {
+    font-size: 2.5rem;
+    font-weight: 800;
+    color: var(--text-main, #1a1a1a);
+    margin-bottom: 2.5rem;
+    letter-spacing: -0.02em;
+    background: linear-gradient(135deg, var(--primary, #2563eb) 0%, var(--secondary, #7c3aed) 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+}
+
+/* Elegant Stat Cards */
+.admin-dashboard .stat-card {
+    background: #ffffff;
+    border-radius: 16px;
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.08);
+    padding: 2rem;
+    margin-bottom: 1.5rem;
+    transition: all 0.4s cubic-bezier(0.4, 0, 0.2, 1);
+    border: 1px solid #f1f5f9;
+    position: relative;
+    overflow: hidden;
+    animation: fadeInScale 0.5s ease-out;
+}
+
+@keyframes fadeInScale {
+    from {
+        opacity: 0;
+        transform: scale(0.95);
+    }
+    to {
+        opacity: 1;
+        transform: scale(1);
+    }
+}
+
+.admin-dashboard .stat-card::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 4px;
+    transition: transform 0.4s cubic-bezier(0.4, 0, 0.2, 1);
+    transform-origin: left;
+}
+
+.admin-dashboard .stat-card:hover {
+    transform: translateY(-6px);
+    box-shadow: 0 12px 40px rgba(0, 0, 0, 0.12);
+}
+
+/* Stat Card Color Variants */
+.admin-dashboard .stat-card.primary {
+    background: linear-gradient(135deg, #2563eb 0%, #3b82f6 100%);
+    color: #ffffff;
+}
+
+.admin-dashboard .stat-card.primary::before {
+    background: linear-gradient(90deg, #ffffff, rgba(255, 255, 255, 0.5));
+    transform: scaleX(1);
+}
+
+.admin-dashboard .stat-card.success {
+    background: linear-gradient(135deg, #10b981 0%, #34d399 100%);
+    color: #ffffff;
+}
+
+.admin-dashboard .stat-card.success::before {
+    background: linear-gradient(90deg, #ffffff, rgba(255, 255, 255, 0.5));
+    transform: scaleX(1);
+}
+
+.admin-dashboard .stat-card.info {
+    background: linear-gradient(135deg, #06b6d4 0%, #22d3ee 100%);
+    color: #ffffff;
+}
+
+.admin-dashboard .stat-card.info::before {
+    background: linear-gradient(90deg, #ffffff, rgba(255, 255, 255, 0.5));
+    transform: scaleX(1);
+}
+
+.admin-dashboard .stat-card.warning {
+    background: linear-gradient(135deg, #f59e0b 0%, #fbbf24 100%);
+    color: #1e293b;
+}
+
+.admin-dashboard .stat-card.warning::before {
+    background: linear-gradient(90deg, rgba(30, 41, 59, 0.3), rgba(30, 41, 59, 0.1));
+    transform: scaleX(1);
+}
+
+.admin-dashboard .stat-card.secondary {
+    background: linear-gradient(135deg, #64748b 0%, #94a3b8 100%);
+    color: #ffffff;
+}
+
+.admin-dashboard .stat-card.secondary::before {
+    background: linear-gradient(90deg, #ffffff, rgba(255, 255, 255, 0.5));
+    transform: scaleX(1);
+}
+
+.admin-dashboard .stat-card.danger {
+    background: linear-gradient(135deg, #ef4444 0%, #f87171 100%);
+    color: #ffffff;
+}
+
+.admin-dashboard .stat-card.danger::before {
+    background: linear-gradient(90deg, #ffffff, rgba(255, 255, 255, 0.5));
+    transform: scaleX(1);
+}
+
+/* Stat Card Content */
+.admin-dashboard .stat-card .card-title {
+    font-size: 0.95rem;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    margin-bottom: 1rem;
+    opacity: 0.95;
+}
+
+.admin-dashboard .stat-card .card-text {
+    font-size: 2.75rem;
+    font-weight: 800;
+    line-height: 1;
+    margin: 0;
+    letter-spacing: -0.02em;
+}
+
+/* Quick Actions Card */
+.admin-dashboard .quick-actions-card {
+    background: #ffffff;
+    border-radius: 16px;
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.08);
+    border: 1px solid #f1f5f9;
+    overflow: hidden;
+    margin-bottom: 2rem;
+    animation: fadeInUp 0.6s ease-out 0.2s both;
+}
+
+.admin-dashboard .quick-actions-card .card-header {
+    background: linear-gradient(135deg, #fafbfc 0%, #f8f9fa 100%);
+    border-bottom: 1px solid #e2e8f0;
+    padding: 1.5rem 2rem;
+}
+
+.admin-dashboard .quick-actions-card .card-header h5 {
+    font-size: 1.25rem;
+    font-weight: 700;
+    color: var(--text-main, #1a1a1a);
+    margin: 0;
+}
+
+.admin-dashboard .quick-actions-card .card-body {
+    padding: 2rem;
+}
+
+/* Action Buttons */
+.admin-dashboard .action-btn {
+    padding: 0.875rem 1.75rem;
+    border-radius: 10px;
+    font-weight: 600;
+    font-size: 0.95rem;
+    transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+    border: none;
+    text-decoration: none;
+    display: inline-block;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
+    position: relative;
+    overflow: hidden;
+}
+
+.admin-dashboard .action-btn::before {
+    content: '';
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    width: 0;
+    height: 0;
+    border-radius: 50%;
+    background: rgba(255, 255, 255, 0.2);
+    transform: translate(-50%, -50%);
+    transition: width 0.5s, height 0.5s;
+}
+
+.admin-dashboard .action-btn:hover::before {
+    width: 300px;
+    height: 300px;
+}
+
+.admin-dashboard .action-btn:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 6px 20px rgba(0, 0, 0, 0.12);
+}
+
+.admin-dashboard .action-btn-primary {
+    background: linear-gradient(135deg, #2563eb 0%, #3b82f6 100%);
+    color: #ffffff;
+}
+
+.admin-dashboard .action-btn-success {
+    background: linear-gradient(135deg, #10b981 0%, #34d399 100%);
+    color: #ffffff;
+}
+
+.admin-dashboard .action-btn-info {
+    background: linear-gradient(135deg, #06b6d4 0%, #22d3ee 100%);
+    color: #ffffff;
+}
+
+.admin-dashboard .action-btn-warning {
+    background: linear-gradient(135deg, #f59e0b 0%, #fbbf24 100%);
+    color: #1e293b;
+}
+
+/* Responsive Design */
+@media (max-width: 992px) {
+    .admin-dashboard h1 {
+        font-size: 2rem;
+    }
+
+    .admin-dashboard .stat-card {
+        margin-bottom: 1.25rem;
+    }
+
+    .admin-dashboard .stat-card .card-text {
+        font-size: 2.25rem;
+    }
+}
+
+@media (max-width: 768px) {
+    .admin-dashboard {
+        padding: 1.5rem 0;
+    }
+
+    .admin-dashboard h1 {
+        font-size: 1.75rem;
+        margin-bottom: 2rem;
+    }
+
+    .admin-dashboard .stat-card {
+        padding: 1.5rem;
+    }
+
+    .admin-dashboard .stat-card .card-text {
+        font-size: 2rem;
+    }
+
+    .admin-dashboard .quick-actions-card .card-body {
+        padding: 1.5rem;
+    }
+
+    .admin-dashboard .action-btn {
+        width: 100%;
+        margin-bottom: 0.75rem;
+        text-align: center;
+    }
+}
+
+@media (max-width: 576px) {
+    .admin-dashboard .stat-card .card-text {
+        font-size: 1.75rem;
+    }
+
+    .admin-dashboard .stat-card .card-title {
+        font-size: 0.875rem;
+    }
+}
+

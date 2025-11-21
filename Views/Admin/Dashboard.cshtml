@@ -1,0 +1,84 @@
+@model mvc_pets.Models.DashboardViewModel
+
+@{
+    ViewData["Title"] = "Admin Dashboard";
+}
+
+@section Styles {
+    <link href="~/css/admin-dashboard.css" rel="stylesheet" />
+}
+
+<div class="container admin-dashboard">
+    <h1>Admin Dashboard</h1>
+
+    <!-- Statistics -->
+    <div class="row mb-4">
+        <div class="col-md-3">
+            <div class="stat-card primary">
+                <div class="card-body">
+                    <h5 class="card-title">Total Users</h5>
+                    <p class="card-text">@Model.TotalUsers</p>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-3">
+            <div class="stat-card success">
+                <div class="card-body">
+                    <h5 class="card-title">Total Pets</h5>
+                    <p class="card-text">@Model.TotalPets</p>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-3">
+            <div class="stat-card info">
+                <div class="card-body">
+                    <h5 class="card-title">Adoption Requests</h5>
+                    <p class="card-text">@Model.TotalAdoptionRequests</p>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-3">
+            <div class="stat-card warning">
+                <div class="card-body">
+                    <h5 class="card-title">Total Donations</h5>
+                    <p class="card-text">$@Model.TotalDonations</p>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Donation Statistics -->
+    <div class="row mb-4">
+        <div class="col-md-4">
+            <div class="stat-card danger">
+                <div class="card-body">
+                    <h5 class="card-title">Rejected Donations</h5>
+                    <p class="card-text">$@Model.RejectedDonations</p>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-4">
+            <div class="stat-card secondary">
+                <div class="card-body">
+                    <h5 class="card-title">Pending Donations</h5>
+                    <p class="card-text">@Model.PendingDonations</p>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Quick Actions -->
+    <div class="quick-actions-card">
+        <div class="card-header">
+            <h5>Quick Actions</h5>
+        </div>
+        <div class="card-body">
+            <div class="d-flex gap-2 flex-wrap">
+                <a href="@Url.Action("Users", "Admin")" class="action-btn action-btn-primary">Manage Users</a>
+                <a href="@Url.Action("ManagePets", "Admin")" class="action-btn action-btn-success">Manage Pets</a>
+                <a href="@Url.Action("AdminRequests", "Adoptions")" class="action-btn action-btn-info">View Adoption Requests</a>
+                <a href="@Url.Action("Manage", "Donation")" class="action-btn action-btn-warning">View Donations</a>
+            </div>
+        </div>
+    </div>
+</div>

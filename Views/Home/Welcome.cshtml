@@ -1,0 +1,56 @@
+@{
+    ViewData["Title"] = "Welcome to Pet Adoption";
+    Layout = "_Layout";
+}
+
+<div class="container mt-5">
+    <div class="row">
+        <div class="col-md-6">
+            <h1 class="display-4">Welcome to Pet Adoption</h1>
+            <p class="lead">Find your perfect companion and give a pet a loving home.</p>
+            <div class="mt-4">
+                <a asp-controller="Account" asp-action="Register" class="btn btn-primary btn-lg me-3">Get Started</a>
+                <a asp-controller="Account" asp-action="Login" class="btn btn-outline-primary btn-lg">Sign In</a>
+            </div>
+        </div>
+        <div class="col-md-6">
+            <img src="/images/welcome-pets.jpg" alt="Happy pets" class="img-fluid rounded shadow" />
+        </div>
+    </div>
+
+    <div class="row mt-5">
+        <div class="col-md-4">
+            <div class="card h-100">
+                <div class="card-body">
+                    <h3 class="card-title">Find Your Match</h3>
+                    <p class="card-text">Browse through our selection of pets waiting for their forever homes.</p>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-4">
+            <div class="card h-100">
+                <div class="card-body">
+                    <h3 class="card-title">Adoption Process</h3>
+                    <p class="card-text">Learn about our simple and transparent adoption process.</p>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-4">
+            <div class="card h-100">
+                <div class="card-body">
+                    <h3 class="card-title">Support Pets</h3>
+                    <p class="card-text">Discover ways to support our mission and help pets in need.</p>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<style>
+    .card {
+        transition: transform 0.3s;
+    }
+    .card:hover {
+        transform: translateY(-5px);
+    }
+</style> 

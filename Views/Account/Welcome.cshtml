@@ -1,0 +1,20 @@
+﻿@model mvc_pets.ViewModels.LoginViewModel
+
+@{
+    ViewBag.Title = "Welcome";
+}
+
+@* Section for specific CSS styles for this page *@
+@section Styles {
+    <link rel="stylesheet" href="~/css/welcome.css" />
+}
+
+<div class="welcome-container">
+    <h2 class="welcome-title">Welcome to Pet Care 🐾</h2>
+    <p class="welcome-message">Please login or register to continue.</p>
+
+    <div class="action-buttons">
+        <a href="/Account/Login" class="btn btn-primary">Login</a>
+        <a href="/Account/Register" class="btn btn-success">Register</a>
+    </div>
+</div>

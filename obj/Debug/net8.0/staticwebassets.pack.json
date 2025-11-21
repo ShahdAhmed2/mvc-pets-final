@@ -1,0 +1,617 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\last - Copy (2)\\mvc_pets\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\mvc_pets.bundle.scp.css",
+      "PackagePath": "staticwebassets\\mvc_pets.1pfvhedv3i.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\last - Copy (2)\\mvc_pets\\wwwroot\\css\\home.css",
+      "PackagePath": "staticwebassets\\css\\home.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\last - Copy (2)\\mvc_pets\\wwwroot\\css\\login.css",
+      "PackagePath": "staticwebassets\\css\\login.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\last - Copy (2)\\mvc_pets\\wwwroot\\css\\modern-style.css",
+      "PackagePath": "staticwebassets\\css\\modern-style.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\last - Copy (2)\\mvc_pets\\wwwroot\\css\\personal-profile.css",
+      "PackagePath": "staticwebassets\\css\\personal-profile.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\last - Copy (2)\\mvc_pets\\wwwroot\\css\\register.css",
+      "PackagePath": "staticwebassets\\css\\register.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\last - Copy (2)\\mvc_pets\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\last - Copy (2)\\mvc_pets\\wwwroot\\css\\welcome.css",
+      "PackagePath": "staticwebassets\\css\\welcome.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\last - Copy (2)\\mvc_pets\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\last - Copy (2)\\mvc_pets\\wwwroot\\images\\1.jpg",
+      "PackagePath": "staticwebassets\\images\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\last - Copy (2)\\mvc_pets\\wwwroot\\images\\2.jpg",
+      "PackagePath": "staticwebassets\\images\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\last - Copy (2)\\mvc_pets\\wwwroot\\images\\3.jpg",
+      "PackagePath": "staticwebassets\\images\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\last - Copy (2)\\mvc_pets\\wwwroot\\images\\40416556-497a-4d27-9ae6-44cf0e2f2202_about-1.jpg",
+      "PackagePath": "staticwebassets\\images\\40416556-497a-4d27-9ae6-44cf0e2f2202_about-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\last - Copy (2)\\mvc_pets\\wwwroot\\images\\5460fe1e-fc5a-4240-b7ff-7e63145a6774_blog-2.jpg",
+      "PackagePath": "staticwebassets\\images\\5460fe1e-fc5a-4240-b7ff-7e63145a6774_blog-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\last - Copy (2)\\mvc_pets\\wwwroot\\images\\5b8b0a27-1f2e-4f8e-b818-b6eb619927d3_price-1.jpg",
+      "PackagePath": "staticwebassets\\images\\5b8b0a27-1f2e-4f8e-b818-b6eb619927d3_price-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\last - Copy (2)\\mvc_pets\\wwwroot\\images\\649b27fa-c7d0-4a07-aea4-fb600a6bedb2_team-3.jpg",
+      "PackagePath": "staticwebassets\\images\\649b27fa-c7d0-4a07-aea4-fb600a6bedb2_team-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\last - Copy (2)\\mvc_pets\\wwwroot\\images\\AdobeStock_452843548-Large.webp",
+      "PackagePath": "staticwebassets\\images\\AdobeStock_452843548-Large.webp"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\last - Copy (2)\\mvc_pets\\wwwroot\\images\\GIV_PetTech_1920x600_0.webp.jpg",
+      "PackagePath": "staticwebassets\\images\\GIV_PetTech_1920x600_0.webp.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\last - Copy (2)\\mvc_pets\\wwwroot\\images\\Screenshot_2024-01-31_at_5.54.51_PM_1200x.webp",
+      "PackagePath": "staticwebassets\\images\\Screenshot_2024-01-31_at_5.54.51_PM_1200x.webp"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\last - Copy (2)\\mvc_pets\\wwwroot\\images\\about-1.jpg",
+      "PackagePath": "staticwebassets\\images\\about-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\last - Copy (2)\\mvc_pets\\wwwroot\\images\\about-2.jpg",
+      "PackagePath": "staticwebassets\\images\\about-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\last - Copy (2)\\mvc_pets\\wwwroot\\images\\about-3.jpg",
+      "PackagePath": "staticwebassets\\images\\about-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\last - Copy (2)\\mvc_pets\\wwwroot\\images\\blog-1.jpg",
+      "PackagePath": "staticwebassets\\images\\blog-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\last - Copy (2)\\mvc_pets\\wwwroot\\images\\blog-2.jpg",
+      "PackagePath": "staticwebassets\\images\\blog-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\last - Copy (2)\\mvc_pets\\wwwroot\\images\\blog-3.jpg",
+      "PackagePath": "staticwebassets\\images\\blog-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\last - Copy (2)\\mvc_pets\\wwwroot\\images\\carousel-1.jpg",
+      "PackagePath": "staticwebassets\\images\\carousel-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\last - Copy (2)\\mvc_pets\\wwwroot\\images\\carousel-2.jpg",
+      "PackagePath": "staticwebassets\\images\\carousel-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\last - Copy (2)\\mvc_pets\\wwwroot\\images\\feature.jpg",
+      "PackagePath": "staticwebassets\\images\\feature.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\last - Copy (2)\\mvc_pets\\wwwroot\\images\\images (1).jpg",
+      "PackagePath": "staticwebassets\\images\\images (1).jpg"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\last - Copy (2)\\mvc_pets\\wwwroot\\images\\images.jpg",
+      "PackagePath": "staticwebassets\\images\\images.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\last - Copy (2)\\mvc_pets\\wwwroot\\images\\logo.png",
+      "PackagePath": "staticwebassets\\images\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\last - Copy (2)\\mvc_pets\\wwwroot\\images\\price-1.jpg",
+      "PackagePath": "staticwebassets\\images\\price-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\last - Copy (2)\\mvc_pets\\wwwroot\\images\\price-2.jpg",
+      "PackagePath": "staticwebassets\\images\\price-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\last - Copy (2)\\mvc_pets\\wwwroot\\images\\price-3.jpg",
+      "PackagePath": "staticwebassets\\images\\price-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\last - Copy (2)\\mvc_pets\\wwwroot\\images\\profile.png",
+      "PackagePath": "staticwebassets\\images\\profile.png"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\last - Copy (2)\\mvc_pets\\wwwroot\\images\\profiles\\161fb5ab-5917-4216-82be-cf8ca1216439.jpg",
+      "PackagePath": "staticwebassets\\images\\profiles\\161fb5ab-5917-4216-82be-cf8ca1216439.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\last - Copy (2)\\mvc_pets\\wwwroot\\images\\profiles\\19d1e179-5128-47cc-9d65-c9d130438188.png",
+      "PackagePath": "staticwebassets\\images\\profiles\\19d1e179-5128-47cc-9d65-c9d130438188.png"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\last - Copy (2)\\mvc_pets\\wwwroot\\images\\profiles\\259dde89-cb69-4fef-9db7-2a26026df566.jpeg",
+      "PackagePath": "staticwebassets\\images\\profiles\\259dde89-cb69-4fef-9db7-2a26026df566.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\last - Copy (2)\\mvc_pets\\wwwroot\\images\\profiles\\29dc4811-9bd4-4f17-917d-6faddd87a49f.jpg",
+      "PackagePath": "staticwebassets\\images\\profiles\\29dc4811-9bd4-4f17-917d-6faddd87a49f.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\last - Copy (2)\\mvc_pets\\wwwroot\\images\\profiles\\38b1d5fc-9be3-46bc-815e-2bb3ec0fa5e3.jpg",
+      "PackagePath": "staticwebassets\\images\\profiles\\38b1d5fc-9be3-46bc-815e-2bb3ec0fa5e3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\last - Copy (2)\\mvc_pets\\wwwroot\\images\\profiles\\47f98775-70ef-4626-9d7f-5f0f5605131a.jpg",
+      "PackagePath": "staticwebassets\\images\\profiles\\47f98775-70ef-4626-9d7f-5f0f5605131a.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\last - Copy (2)\\mvc_pets\\wwwroot\\images\\profiles\\4aefa970-f44d-4779-8679-321287f0716c.jpg",
+      "PackagePath": "staticwebassets\\images\\profiles\\4aefa970-f44d-4779-8679-321287f0716c.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\last - Copy (2)\\mvc_pets\\wwwroot\\images\\profiles\\58136ba0-ddce-46f3-8482-2e709b4a005d.jpg",
+      "PackagePath": "staticwebassets\\images\\profiles\\58136ba0-ddce-46f3-8482-2e709b4a005d.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\last - Copy (2)\\mvc_pets\\wwwroot\\images\\profiles\\61ef0a86-3454-4ea5-8f7f-b459b87e94f6.jpg",
+      "PackagePath": "staticwebassets\\images\\profiles\\61ef0a86-3454-4ea5-8f7f-b459b87e94f6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\last - Copy (2)\\mvc_pets\\wwwroot\\images\\profiles\\7d8bbd69-1dad-472e-9b19-cff298e6a0cb.jpg",
+      "PackagePath": "staticwebassets\\images\\profiles\\7d8bbd69-1dad-472e-9b19-cff298e6a0cb.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\last - Copy (2)\\mvc_pets\\wwwroot\\images\\profiles\\90357385-62cf-438f-a6dc-dbd4304332ef.jpg",
+      "PackagePath": "staticwebassets\\images\\profiles\\90357385-62cf-438f-a6dc-dbd4304332ef.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\last - Copy (2)\\mvc_pets\\wwwroot\\images\\profiles\\99a01346-df0f-4666-a2d3-534b16b0dd08.jpg",
+      "PackagePath": "staticwebassets\\images\\profiles\\99a01346-df0f-4666-a2d3-534b16b0dd08.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\last - Copy (2)\\mvc_pets\\wwwroot\\images\\profiles\\a4450322-984f-4465-931d-321e9c56cb0c.jpg",
+      "PackagePath": "staticwebassets\\images\\profiles\\a4450322-984f-4465-931d-321e9c56cb0c.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\last - Copy (2)\\mvc_pets\\wwwroot\\images\\profiles\\dfaacbae-6634-4dab-a989-89adfa0eae6f.jpg",
+      "PackagePath": "staticwebassets\\images\\profiles\\dfaacbae-6634-4dab-a989-89adfa0eae6f.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\last - Copy (2)\\mvc_pets\\wwwroot\\images\\profiles\\e035645b-7d40-4eb4-85a2-86656ba8e8ed.jfif",
+      "PackagePath": "staticwebassets\\images\\profiles\\e035645b-7d40-4eb4-85a2-86656ba8e8ed.jfif"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\last - Copy (2)\\mvc_pets\\wwwroot\\images\\profiles\\e0fad193-cac0-47b8-9ae8-71c33d7c490d.jpg",
+      "PackagePath": "staticwebassets\\images\\profiles\\e0fad193-cac0-47b8-9ae8-71c33d7c490d.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\last - Copy (2)\\mvc_pets\\wwwroot\\images\\profiles\\e852a25c-5662-4c70-80b7-c4d0d022999e.jpg",
+      "PackagePath": "staticwebassets\\images\\profiles\\e852a25c-5662-4c70-80b7-c4d0d022999e.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\last - Copy (2)\\mvc_pets\\wwwroot\\images\\team-1.jpg",
+      "PackagePath": "staticwebassets\\images\\team-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\last - Copy (2)\\mvc_pets\\wwwroot\\images\\team-2.jpg",
+      "PackagePath": "staticwebassets\\images\\team-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\last - Copy (2)\\mvc_pets\\wwwroot\\images\\team-3.jpg",
+      "PackagePath": "staticwebassets\\images\\team-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\last - Copy (2)\\mvc_pets\\wwwroot\\images\\team-4.jpg",
+      "PackagePath": "staticwebassets\\images\\team-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\last - Copy (2)\\mvc_pets\\wwwroot\\images\\testimonial-1.jpg",
+      "PackagePath": "staticwebassets\\images\\testimonial-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\last - Copy (2)\\mvc_pets\\wwwroot\\images\\testimonial-2.jpg",
+      "PackagePath": "staticwebassets\\images\\testimonial-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\last - Copy (2)\\mvc_pets\\wwwroot\\images\\testimonial-3.jpg",
+      "PackagePath": "staticwebassets\\images\\testimonial-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\last - Copy (2)\\mvc_pets\\wwwroot\\images\\testimonial-4.jpg",
+      "PackagePath": "staticwebassets\\images\\testimonial-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\last - Copy (2)\\mvc_pets\\wwwroot\\images\\user.jpg",
+      "PackagePath": "staticwebassets\\images\\user.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\last - Copy (2)\\mvc_pets\\wwwroot\\js\\animations.js",
+      "PackagePath": "staticwebassets\\js\\animations.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\last - Copy (2)\\mvc_pets\\wwwroot\\js\\main.js",
+      "PackagePath": "staticwebassets\\js\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\last - Copy (2)\\mvc_pets\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\last - Copy (2)\\mvc_pets\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\last - Copy (2)\\mvc_pets\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\last - Copy (2)\\mvc_pets\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\last - Copy (2)\\mvc_pets\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\last - Copy (2)\\mvc_pets\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\last - Copy (2)\\mvc_pets\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\last - Copy (2)\\mvc_pets\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\last - Copy (2)\\mvc_pets\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\last - Copy (2)\\mvc_pets\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\last - Copy (2)\\mvc_pets\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\last - Copy (2)\\mvc_pets\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\last - Copy (2)\\mvc_pets\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\last - Copy (2)\\mvc_pets\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\last - Copy (2)\\mvc_pets\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\last - Copy (2)\\mvc_pets\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\last - Copy (2)\\mvc_pets\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\last - Copy (2)\\mvc_pets\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\last - Copy (2)\\mvc_pets\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\last - Copy (2)\\mvc_pets\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\last - Copy (2)\\mvc_pets\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\last - Copy (2)\\mvc_pets\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\last - Copy (2)\\mvc_pets\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\last - Copy (2)\\mvc_pets\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\last - Copy (2)\\mvc_pets\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\last - Copy (2)\\mvc_pets\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\last - Copy (2)\\mvc_pets\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\last - Copy (2)\\mvc_pets\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\last - Copy (2)\\mvc_pets\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\last - Copy (2)\\mvc_pets\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\last - Copy (2)\\mvc_pets\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\last - Copy (2)\\mvc_pets\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\last - Copy (2)\\mvc_pets\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\last - Copy (2)\\mvc_pets\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\last - Copy (2)\\mvc_pets\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\last - Copy (2)\\mvc_pets\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\last - Copy (2)\\mvc_pets\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\last - Copy (2)\\mvc_pets\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\last - Copy (2)\\mvc_pets\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\last - Copy (2)\\mvc_pets\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\last - Copy (2)\\mvc_pets\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\last - Copy (2)\\mvc_pets\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\last - Copy (2)\\mvc_pets\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\last - Copy (2)\\mvc_pets\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\last - Copy (2)\\mvc_pets\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\last - Copy (2)\\mvc_pets\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\last - Copy (2)\\mvc_pets\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\last - Copy (2)\\mvc_pets\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\last - Copy (2)\\mvc_pets\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\last - Copy (2)\\mvc_pets\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\last - Copy (2)\\mvc_pets\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\last - Copy (2)\\mvc_pets\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\last - Copy (2)\\mvc_pets\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\last - Copy (2)\\mvc_pets\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\last - Copy (2)\\mvc_pets\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\last - Copy (2)\\mvc_pets\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\last - Copy (2)\\mvc_pets\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\last - Copy (2)\\mvc_pets\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\last - Copy (2)\\mvc_pets\\wwwroot\\lib\\tempusdominus\\css\\tempusdominus-bootstrap-4.css",
+      "PackagePath": "staticwebassets\\lib\\tempusdominus\\css\\tempusdominus-bootstrap-4.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\last - Copy (2)\\mvc_pets\\wwwroot\\lib\\tempusdominus\\css\\tempusdominus-bootstrap-4.min.css",
+      "PackagePath": "staticwebassets\\lib\\tempusdominus\\css\\tempusdominus-bootstrap-4.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\last - Copy (2)\\mvc_pets\\wwwroot\\lib\\tempusdominus\\js\\moment-timezone.min.js",
+      "PackagePath": "staticwebassets\\lib\\tempusdominus\\js\\moment-timezone.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\last - Copy (2)\\mvc_pets\\wwwroot\\lib\\tempusdominus\\js\\moment.min.js",
+      "PackagePath": "staticwebassets\\lib\\tempusdominus\\js\\moment.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\last - Copy (2)\\mvc_pets\\wwwroot\\lib\\tempusdominus\\js\\tempusdominus-bootstrap-4.js",
+      "PackagePath": "staticwebassets\\lib\\tempusdominus\\js\\tempusdominus-bootstrap-4.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\last - Copy (2)\\mvc_pets\\wwwroot\\lib\\tempusdominus\\js\\tempusdominus-bootstrap-4.min.js",
+      "PackagePath": "staticwebassets\\lib\\tempusdominus\\js\\tempusdominus-bootstrap-4.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\last - Copy (2)\\mvc_pets\\wwwroot\\uploads\\1106b903-e5b8-4dca-8965-6aeadb002a2b_price-2.jpg",
+      "PackagePath": "staticwebassets\\uploads\\1106b903-e5b8-4dca-8965-6aeadb002a2b_price-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\last - Copy (2)\\mvc_pets\\wwwroot\\uploads\\20a42078-730c-46cd-bc28-d93f55157941_price-1.jpg",
+      "PackagePath": "staticwebassets\\uploads\\20a42078-730c-46cd-bc28-d93f55157941_price-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\last - Copy (2)\\mvc_pets\\wwwroot\\uploads\\2a3731db-07f2-4c87-a2cd-fcdd4788b8d3_blog-2.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2a3731db-07f2-4c87-a2cd-fcdd4788b8d3_blog-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\last - Copy (2)\\mvc_pets\\wwwroot\\uploads\\39e18e3a-7dea-43a9-8bf0-ca76d5b3dd46_blog-2.jpg",
+      "PackagePath": "staticwebassets\\uploads\\39e18e3a-7dea-43a9-8bf0-ca76d5b3dd46_blog-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\last - Copy (2)\\mvc_pets\\wwwroot\\uploads\\3aa717a1-2de7-4e40-9118-8b63fe32c989.jpg",
+      "PackagePath": "staticwebassets\\uploads\\3aa717a1-2de7-4e40-9118-8b63fe32c989.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\last - Copy (2)\\mvc_pets\\wwwroot\\uploads\\3b397691-bf74-427c-8d41-7621138a8b11_price-3.jpg",
+      "PackagePath": "staticwebassets\\uploads\\3b397691-bf74-427c-8d41-7621138a8b11_price-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\last - Copy (2)\\mvc_pets\\wwwroot\\uploads\\4b5127a9-1084-4470-a087-10bb83c12b53_blog-2.jpg",
+      "PackagePath": "staticwebassets\\uploads\\4b5127a9-1084-4470-a087-10bb83c12b53_blog-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\last - Copy (2)\\mvc_pets\\wwwroot\\uploads\\4bdc98aa-113b-4c85-a283-8404d9234ac3_feature.jpg",
+      "PackagePath": "staticwebassets\\uploads\\4bdc98aa-113b-4c85-a283-8404d9234ac3_feature.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\last - Copy (2)\\mvc_pets\\wwwroot\\uploads\\51a40407-6817-4773-95d2-26189fe097b3.jpg",
+      "PackagePath": "staticwebassets\\uploads\\51a40407-6817-4773-95d2-26189fe097b3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\last - Copy (2)\\mvc_pets\\wwwroot\\uploads\\5bb25e5a-8d15-457c-a62d-ec657e6627a2.jpg",
+      "PackagePath": "staticwebassets\\uploads\\5bb25e5a-8d15-457c-a62d-ec657e6627a2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\last - Copy (2)\\mvc_pets\\wwwroot\\uploads\\6d5060ee-fd0b-48e0-b799-c37ec1a2d853_team-2.jpg",
+      "PackagePath": "staticwebassets\\uploads\\6d5060ee-fd0b-48e0-b799-c37ec1a2d853_team-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\last - Copy (2)\\mvc_pets\\wwwroot\\uploads\\7ca6c49e-0cea-44d3-b276-0b3c66a17a6b.jpg",
+      "PackagePath": "staticwebassets\\uploads\\7ca6c49e-0cea-44d3-b276-0b3c66a17a6b.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\last - Copy (2)\\mvc_pets\\wwwroot\\uploads\\8178977b-823a-44be-810b-d5563a6f9af4_testimonial-1.jpg",
+      "PackagePath": "staticwebassets\\uploads\\8178977b-823a-44be-810b-d5563a6f9af4_testimonial-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\last - Copy (2)\\mvc_pets\\wwwroot\\uploads\\85708ac5-8145-4193-9216-88474faec25b_feature.jpg",
+      "PackagePath": "staticwebassets\\uploads\\85708ac5-8145-4193-9216-88474faec25b_feature.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\last - Copy (2)\\mvc_pets\\wwwroot\\uploads\\90df6ba0-52ce-4163-aa47-c76b3c92a931_feature.jpg",
+      "PackagePath": "staticwebassets\\uploads\\90df6ba0-52ce-4163-aa47-c76b3c92a931_feature.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\last - Copy (2)\\mvc_pets\\wwwroot\\uploads\\9b9a1d19-145a-42c0-a853-4904425ed91c_about-3.jpg",
+      "PackagePath": "staticwebassets\\uploads\\9b9a1d19-145a-42c0-a853-4904425ed91c_about-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\last - Copy (2)\\mvc_pets\\wwwroot\\uploads\\9ff6cd87-2b51-4f58-80a6-a5f78f648a6c_team-4.jpg",
+      "PackagePath": "staticwebassets\\uploads\\9ff6cd87-2b51-4f58-80a6-a5f78f648a6c_team-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\last - Copy (2)\\mvc_pets\\wwwroot\\uploads\\b41e2aff-2176-4509-953f-66caa9da773d_blog-2.jpg",
+      "PackagePath": "staticwebassets\\uploads\\b41e2aff-2176-4509-953f-66caa9da773d_blog-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\last - Copy (2)\\mvc_pets\\wwwroot\\uploads\\dad1b895-8008-46c1-9587-d0502a190fcf_price-1.jpg",
+      "PackagePath": "staticwebassets\\uploads\\dad1b895-8008-46c1-9587-d0502a190fcf_price-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\last - Copy (2)\\mvc_pets\\wwwroot\\uploads\\ea1d1807-2105-45d8-b180-e48b94883653_blog-2.jpg",
+      "PackagePath": "staticwebassets\\uploads\\ea1d1807-2105-45d8-b180-e48b94883653_blog-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\last - Copy (2)\\mvc_pets\\wwwroot\\uploads\\ef69355e-a87c-44ff-a56f-cf99016af1ba.jpg",
+      "PackagePath": "staticwebassets\\uploads\\ef69355e-a87c-44ff-a56f-cf99016af1ba.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.mvc_pets.props",
+      "PackagePath": "build\\mvc_pets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.mvc_pets.props",
+      "PackagePath": "buildMultiTargeting\\mvc_pets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.mvc_pets.props",
+      "PackagePath": "buildTransitive\\mvc_pets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.mvc_pets.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.mvc_pets.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
